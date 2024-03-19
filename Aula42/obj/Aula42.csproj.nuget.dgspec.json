@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Visual Studio Project\\Aula42\\Aula42\\Aula42.csproj": {}
+    "E:\\Projeto\\C-udemy\\Aula42\\Aula42.csproj": {}
   },
   "projects": {
-    "E:\\Visual Studio Project\\Aula42\\Aula42\\Aula42.csproj": {
+    "E:\\Projeto\\C-udemy\\Aula42\\Aula42.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Visual Studio Project\\Aula42\\Aula42\\Aula42.csproj",
+        "projectUniqueName": "E:\\Projeto\\C-udemy\\Aula42\\Aula42.csproj",
         "projectName": "Aula42",
-        "projectPath": "E:\\Visual Studio Project\\Aula42\\Aula42\\Aula42.csproj",
+        "projectPath": "E:\\Projeto\\C-udemy\\Aula42\\Aula42.csproj",
         "packagesPath": "C:\\Users\\csnoi\\.nuget\\packages\\",
-        "outputPath": "E:\\Visual Studio Project\\Aula42\\Aula42\\obj\\",
+        "outputPath": "E:\\Projeto\\C-udemy\\Aula42\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
