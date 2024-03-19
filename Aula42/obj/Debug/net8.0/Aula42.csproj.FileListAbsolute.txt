@@ -1,0 +1,14 @@
+E:\Visual Studio Project\Aula42\Aula42\bin\Debug\net8.0\Aula42.exe
+E:\Visual Studio Project\Aula42\Aula42\bin\Debug\net8.0\Aula42.deps.json
+E:\Visual Studio Project\Aula42\Aula42\bin\Debug\net8.0\Aula42.runtimeconfig.json
+E:\Visual Studio Project\Aula42\Aula42\bin\Debug\net8.0\Aula42.dll
+E:\Visual Studio Project\Aula42\Aula42\bin\Debug\net8.0\Aula42.pdb
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\Aula42.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\Aula42.AssemblyInfoInputs.cache
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\Aula42.AssemblyInfo.cs
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\Aula42.csproj.CoreCompileInputs.cache
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\Aula42.dll
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\refint\Aula42.dll
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\Aula42.pdb
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\Aula42.genruntimeconfig.cache
+E:\Visual Studio Project\Aula42\Aula42\obj\Debug\net8.0\ref\Aula42.dll
