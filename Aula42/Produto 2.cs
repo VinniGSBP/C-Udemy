@@ -2,8 +2,7 @@
 using System.Globalization;
 
 namespace Aula42 {
-    // modificacao aula clone git e git hub
-    // teste para upload github 
+    //Produto 2
     internal class Produto {
         private string _nome;
         public double Preco { get; private set; }
